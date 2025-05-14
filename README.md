@@ -38,7 +38,7 @@ Fixing bugs or typos
 📬 Contact
 Aniruddha Shivaji Lalge
 📧 aniruddhalalge283@gmail.com
-🔗 LinkedIn
-🧠 GeeksforGeeks Profile
+🔗 [LinkedIn](https://www.linkedin.com/in/aniruddha-lalge-aa06041b3/)
+🧠 https://www.geeksforgeeks.org/user/aniruddhalalge283/
 
 Happy Coding! 🚀
