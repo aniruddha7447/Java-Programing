@@ -1,25 +1,14 @@
-package Practice;
+// Java program to illustrate for loop.
+class forLoopDemo {
+	public static void main(String args[])
+	{
+		int sum = 0;
 
-public class ReverseString {
-	/*public static void main(String[] args) {
-		String str = "ANIRUDDHA";
-		str.toCharArray();
-		String revstr = "";
-		int len=str.length();
-		for(int i = len-1; i>=0 ;i--) {
-			revstr = revstr + str.charAt(i);
+		// for loop begins
+		// and runs till x <= 20
+		for (int x = 1; x <= 20; x++) {
+			sum = sum + x;
 		}
-		System.out.println(revstr);
-		*/
-	public static void reversestring(String sc) {
-		for(int i=sc.length()-1;i>=0;i--) {
-			System.out.print(sc.charAt(i));
-		}
-	}
-	public static void main (String args[]) {
-		String sc = "Hello world";
-		reversestring(sc);
+		System.out.println("Sum: " + sum);
 	}
 }
-
-

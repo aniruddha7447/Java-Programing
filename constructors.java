@@ -41,7 +41,7 @@ class Student {
 }
 class Tatya{
 	Tatya(){
-		System.out.println("Bham BHole");
+		System.out.println("Bham Bhole");
 	}
 }
 //tatya(),student()like these are constructors
