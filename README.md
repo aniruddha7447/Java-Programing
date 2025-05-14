@@ -39,6 +39,6 @@ Fixing bugs or typos
 Aniruddha Shivaji Lalge
 📧 aniruddhalalge283@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/aniruddha-lalge-aa06041b3/)
-🧠 https://www.geeksforgeeks.org/user/aniruddhalalge283/
+🧠 [geeksforgeeks](https://www.geeksforgeeks.org/user/aniruddhalalge283/)
 
 Happy Coding! 🚀
